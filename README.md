@@ -1,8 +1,8 @@
 # Consistency Flow Matching: Defining Straight Flows with Velocity Consistency
 
-This repository contains the official implementation of our [Consistency Flow Matching](https://arxiv.org/abs/2407.02398).
+This repository contains the official implementation of our [Consistency Flow Matching](./github_misc/Consistency_FM_arxiv.pdf).
 
-> [**Consistency Flow Matching: Defining Straight Flows with Velocity Consistency**](https://arxiv.org/abs/2407.02398)   
+> [**Consistency Flow Matching: Defining Straight Flows with Velocity Consistency**](./github_misc/Consistency_FM_arxiv.pdf)   
 > [Ling Yang](https://yangling0818.github.io/), 
 > [Zixiang Zhang](),
 > [Zhilong Zhang](),
